@@ -1,7 +1,7 @@
 ## Oi! Eu Sou o Ezequiel.
 
 - 🔭 Atualmente estou focado na faculdade e em busca de um possivel emprego
-- 🌱 Aprendendo C, C++ e C#
+- 🌱 Aprendendo POO, Banco de Dados, Estrutura de Dados e Engenharia de Software
 - 📫 Email pra contato: ezequielfcruzsousa@gmail.com
 
 
